@@ -22,5 +22,5 @@ This project was built with Yarn in mind, but you can use NPM if you prefer. The
 
 Just run `yarn <script>` or `npm run <script>` on your terminal with one of the following scripts:
 
-`read-data`: reads the specified spreadsheet and return the values according to the parsms
-`write-data`: appends the specified data to the spreadsheet content
+- `read-data`: reads the specified spreadsheet and return the values according to the parsms
+- `write-data`: appends the specified data to the spreadsheet content
