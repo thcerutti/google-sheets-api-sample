@@ -1,0 +1,6 @@
+{
+  "spreadsheetId": "1bbGNgyoeXWbHyv28H6nFxHtHHbK6jj7kviW08a0opak",
+  "googleApplicationCredentialsPath": "./google_application_credentials.json",
+  "scopes": "https://www.googleapis.com/auth/spreadsheets",
+  "apiVersion": "v4"
+}

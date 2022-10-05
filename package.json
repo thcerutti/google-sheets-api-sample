@@ -1,0 +1,14 @@
+{
+  "name": "google-sheets-api-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "read-data": "rm -rf node_modules && yarn && node read-data",
+    "write-data": "rm -rf node_modules && yarn && node write-data"
+  },
+  "dependencies": {
+    "google-auth-library": "^8.5.2",
+    "googleapis": "^108.0.0"
+  }
+}
