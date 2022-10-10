@@ -1,6 +1,6 @@
 # Google Sheets API Sample
 
-These files are samples of using Google Sheets API to read data from a spreadsheet and write data to a spreadsheet.
+Here we have samples of using Google Sheets API to read data from a spreadsheet and write data to a spreadsheet, both usuing JS.
 
 ## Google credentials
 
